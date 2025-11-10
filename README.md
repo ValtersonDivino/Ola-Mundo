@@ -1,2 +1,2 @@
-# Ola Mundo
-Primeiro Repositório
+# Estudos 
+Repositório para estudos git
